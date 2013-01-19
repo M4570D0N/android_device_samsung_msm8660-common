@@ -207,4 +207,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Common overlay
 DEVICE_PACKAGE_OVERLAYS += device/samsung/msm8660-common/overlay
-
