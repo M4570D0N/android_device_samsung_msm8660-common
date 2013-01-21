@@ -63,7 +63,7 @@ PRODUCT_PACKAGES += \
 
 # Lights Support
 PRODUCT_PACKAGES += \
-	lights.msm8660
+    lights.msm8660
 
 # GalaxyS2Settings
 PRODUCT_PACKAGES += \
@@ -207,4 +207,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Common overlay
 DEVICE_PACKAGE_OVERLAYS += device/samsung/msm8660-common/overlay
-
